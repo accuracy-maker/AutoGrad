@@ -13,7 +13,7 @@ Here are the plots of my DVG and Pytorch DVG:
 ![pytorch_dvg](images/torch_computation_graph.png)
 
 Surprisely, my implementation of sclaer-level backpropagation is faster than Pytorch:
-![speed]()
+![speed](images/computespeed.png)
 
 TODO
 
