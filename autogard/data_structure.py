@@ -69,7 +69,7 @@ class Value:
                 nodes_list.append(v)
                 
         collect(self)
-        print(nodes_list)
+        # print(nodes_list)
         
         for node in reversed(nodes_list):
             if node._prev:
